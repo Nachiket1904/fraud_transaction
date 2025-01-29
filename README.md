@@ -1,4 +1,4 @@
-# Solution for Fraud Detection
+# Fraud Detection
 
 ## Data Preparation:
 
